@@ -1,0 +1,466 @@
+
+
+
+
+
+
+CORRECTED SECOND AMENDED ATTACHMENT A
+
+a. Approximately $2,460,375 seized from the Flagstar bank account corresponding to Signature Bank account number 1503814168.
+
+b. Approximately $352,381.55 seized from Wells Fargo bank account number 5361262370.
+
+c. Approximately $228,266.02 seized from JPMorgan Chase bank account number 877916952.
+
+d. Assorted U.S.and Canadian gold coins, worth between approximately $160,000 and $300,000,which were excavated and recovered by law enforcement from LOCATION 1, a premises in California known to the Defendants and the Governm nt.
+
+e. Approximately 94,643.29837084 Bitcoin (BTC)(after required fees) seized from wallets recovered from Defendants' online storage account. The U.S.government's seizure of the 94,643.29837084 BTC is reflected in the following cryptocurrency transaction hashes:
+
+6e0d701ac2ea3ad87fc8bcaa786b994aa943f5eb9a67ale345769bb090bf5b9e
+afdfeeadb9f0a469lcbb8ace33a7c24c052b3608c4c8cc2e25afe053926b6389
+77ad70fadfbbad5l91c47c951469095ca845006f25fe9814f30f2853af367459
+c49ff6bd054fb386cd02fc94ca34b8773229ed8a5538e023ef7bea772d70c17a
+9d06994238d0de958033f42db39a6d2cc0de35e84be0ed080e4lf017f02dffb3
+ed1812e8310bb25fbd138aae17be738ad3fa20e0783a8598c8dea56d3be5dad7
+ee56a9957flf6166440bea01d0c0c29e4cec6230bb8231eced6ba844bb095d2a
+c250725cfc967ld3849a3e85343ec5f3d045f805d002e56725c8ea2aebb9131a
+b0aa2d76fd9463da6a7aff59e37d7ebf7b6aalb660de2b2e9ab7755cf6f60ac3
+b18e40d96906b7bl7f337ad6250fDc5aa9db93498832125374102dd2f5e0ed47
+8e5102edd876f71e3482b7602dd9141fbce3ac869fba55a757b4354c70536f34
+llbae40ae4315ale8f7d9a8df676db6bdb497bl5371ldlbf7952c540edla5966
+e6088723889de70fa985e7b8c012c77ea693a6ef9379fb26a95la2bb5c722525
+3fe798be890c7db8beaca9d005cd650e787blbl6bc5e47eef26bfa87124b6a95
+d006075f40136ea7733aec2d6f32c31abc09t779de01a33e7e07804907d339c7
+8e53ca8952fbf2dla272ab376555alcceelff0bcab0747a8c91b0ccfc77cc3fb
+97e4eb7ca5d0b2b6d501a53478486d5ed75ce58d1204c6036f25b33439d48627
+658a550600e8l4f7bf7d032b7984912857f37c96a68e4dd3eb1dce4fc774e26f
+98281f388a444ld7bb00537e65b1a458ldcaddd3606fc09f6cfl9598343be34d
+dldbc472abe47902aa7le639ba2feb2098b474ab20b853168ecdb0d87ce02955
+
+
+
+
+
+61594a56cd2ef50lcdb55b9037cd5785dlad2eedfbla4fab7ded50bl052a0650
+b7bf853fd6eb27f66963d219d29b85el3796e315473b7c08484335a0b0da7669
+9af41957244e97e70378a7afd2d4lb73d0a64d94c9b2df9049c29ddl919741cb
+f. Approximately l 17,376.52651940 Bitcoin Cash(BCH)(after required fees)seized from wallets recovered from Defendants' online storage account. The U.S. government's seizure of the 117,376.52651940 BCH is reflected in the following cryptocurrency transaction hashes:
+
+c29fb28633a9bee7720f7ec021c2441dc6a2289c92e887ac5214c35d49314379
+Ob9013f818de45ddfa9068f54f8513fl5ae35bd71l054dl 19b483a791c750684
+Oae0e3c0db61a2542015164bdceadl636c614bdd5bf51b9537c5b8312db2b84a
+l6el ba9b30fd5c86c9dd4ef3967l05c2fbfe7ed9f5 l0900b8acd7f7a0a9cdbd8
+2544551e053688217ececb544bdc065d502db4ff4f227053fa25cc4lbe907541
+4f24389c09897d50239d0be3ec39044160f65985cfb3fdflldl17a8fa39aaa24
+6adla5ef2ed573b010e7ab32b395bed32142c07bf8bb67534880bbb03591215d
+7278e247fc3c7bfa8 l732ba63c628fe30cbl60ec9b7fa357a5dcff8a2f6738e3
+739b58b49039856f8dblda64c713372e04c4e09f9ca32437b639b4d37aad920b
+7570b746ecd24f66eb754e100f79c5259e9eecb0c7a0188e6cf5ee84f76d9b21
+7cbd6e716lbbcb80865ef855128bbelcdeble6b87788a99c2559046294bc898f
+e308fcl199a044f613578e365313008762b8b779b3d92191e6e6ba9a6f5e2182
+f8efc360fcd7d6f27b9f7e5l9l lf361b94cb1ff2734be5e301b3cacedda948le
+g. Approximately l 17,376.58178024 in Bitcoin Satoshi Vision (BSV)(after required fees) seized from wallets recovered from Defendants' online storage account. The
+U.S. government's seizure of the 117,376.58178024 BSV is reflected in the following cryptocurrency transaction hashes:
+
+2cf808c73bda45a6eelc266c60da50fD1250d9452f7b51elcaaf3ecec605b416
+a0ede2c37597976de79a67db2096b3d8f7a4f60f357c09953a7342adl948b4b5
+6b46c0067f786acf4f5al925f12b9860ad6l8l7829f30fefd898ad0c3bbaeaf0
+h. Approximately 118,102.03258 47 in Bitcoin Gold (BTG)(after required fees) seized from wallets recovered from Defendants' online storage account. The U.S. government's seizure of the 118,102.03258447 BTG is reflected in the following cryptocurrency transaction hashes:
+
+a4ba827e99c6cef43ff59045767lb63c0d52b2c215797e67c81fcl68f499932c
+97263227ea62146lf3d22132c3e7562b0e401853fd4acedldblb34abala65ab4
+41ad49ad96dfd64eb0293484d4953ccbff7d70839e4c7b75db472c5553dbl532
+d6e8f7d9aac687cac9af80lb4b38cbc8e71db2f21d4lfDa6eOd8052d8087456b
+c2d69e0a0090f20la29d6afb3655b7118b2282146abf64b044481ed99eb2fa27
+
+
+
+
+
+ec3e2b93e7f7be50bb827ebfd366e2elf4627dd8ed4550427ec793a3ea20187c
+2aa7dbb29d707fb1150cl3dlee6a0al7eeef7326116251cb5dl3081fcd297ad8
+70ed72a2cle2d828f314f5bb327b0e03421bf854c4aba3ea9393258af6fba044
+c656cd6lfce6c3aebeb0f20818d5d092c04c379d3fc72e3ec7e4fDl9f7la40ec
+2238af7a93f797a32ea20492fffa5e27b4d425c46ee7cb0e4fa262e2cddf3142
+ec2f4d2e7c13fl9657ad4559a9bfd254437989f0f45e8993al7d84c374ecb02f
+5e26b7706blc53b49d99aclf501971b3d62c6d7e0ba6a0lc9791e0d675cfb6e7
+
+
+1. Approximately 2,088,133.214436 USDT tokens (USDT) (after required fees) seized from wallets recovered from the Defendants' online storage account. The
+U.S. government's seizure of the 2,088,133.214436 USDT (USDT) is reflected in the following cryptocurrency transaction hashes:
+
+Oxaac3544afDa36f02ed3f9019f8ab6ec01a46cdefl c6678eb02e4de77cfc44429
+0x2924bfedl03cf47743e06c8fc4e3d448aef66bd5e4c8b055c432cf97dcc66d92
+
+J. Approximately 8,984,961.413084 USDC tokens (USDC) (after required fees) seized from wallets recovered from the Defendants' online storage account. The
+U.S. government's seizure of the 8,984,961.413084 USDC is reflected in the following cryptocurrency transaction hashes:
+
+0x6fd9dea95481cd84e48af90d4a22l5f81b9a6832d5cf30flffd35fdb3b9cc46d
+0x9e5766270527f9fbf2b74da6abace6d50990c4b2997975lb05497acd24c6e78d
+0x025121522c27081acea889b52fb11004ec218afb94921b4b3d21635c389ae56e
+0xc4ab2429935e413581a684915ec50a6def2342958e81b4e53bddfc8ld94ff07f
+0x208589d357a974ld8c9dc52b4fe26cdb58d923c7026caefea5d18f2c32deb470
+0x8f7c636bc8c535d4ldc321197c6faee791b9baf20220489cad8c63ca41320f07
+
+k. Approximately 18.50708 Ether (ETH) (after required fees) seized from wallets recovered from Defendants' online storage account. The U.S. government's seizure of the 18.50708 ETH is reflected in the following cryptocurrency transaction hashes:
+
+0x6ld691bdafa62e0b6dcbea59a9d2a706d36df06638ble5f5bfbc20258fdb8f62
+0xlba8834537f2518c287f3417bc48ecb747f2a692f7ac03004ee3fd4056d7df69
+0xc15e937c65cfa7d920505ed76dc939567e25c43eb232bddf3lc865828b02cc2c
+0x043f8cdelf7cdae67c8da6823d7allce6c8910a5b281f8b33b8efb9f0bb48049
+
+1. Approximately 0.87954 Curve DAO tokens (CRV) (after required fees) seized from wallets recovered from Defendant's online storage account. The transfer of these assets to the U.S. Marshals Service is reflected in the following cryptocurrency transaction hash:
+
+
+
+
+
+
+
+
+Ox612e5774afD5cef0626f429d876a315bbdb794fac8fe361bald4a0 lcb3db86a4
+
+m. Approximately 153.369826 stkAAVE (after required fees) seized from wallets recovered from Defendants' online storage account. The U.S. government's seizure of the 153.369826 stkAAVE is reflected in the following cryptocurrency transaction hashes:
+
+Oxc72aa554c07abcf7bel823b564de679f7a6a7153a753c7bbb6489712edfalefb
+Oxe32bda04be91e4555ff222bd76854a41cba5d8889986426ded5b82ld75148ef8
+
+n. Approximately 128,337.930125 CRV (after required fees) seized from wallets recovered from Defendants' online storage account. The U.S. government's seizure of the 128,337.930125 CRV is reflected in the following cryptocurrency transaction hash:
+
+Ox34adc0fcf52d47e448f39c8f532al 8ea7ffe2350bdde2dd3559eIb40d9cf697c
+
+o. Approximately 5,364,110.706859 DAI (after required fees) seized from wallets recovered from Defendants' online storage account. The U.S. government's seizure of the 5,364,110.706859 DAI is reflected in the following cryptocurrency' transaction hash:
+
+Oxc28daceb604b66f94930719ld890831ccld4580a54b99be492a992117ee601c6
+
+p. Approximately 1,030,436.50 aUSDT (after required fees) _seized from wallets recovered from Defendants' online storage account. Those wallets were also contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The 1,030,436.50 aUSDT is stored within the following cryptocurrency addresses:
+
+TSzQqhP4GwYqtA7ejTxzYT3BlA3VDicWZY
+Ox4bee2fe7a49525ab2def5638f3dd2ld36eeea0e0
+Oxad9d2ab25d53399056282a2a2beb6efea960a6d3
+Ox6C47215Fa05F6lc91l 83360E614fb0d338266BD1
+OxOCaB63E3e978Dlf66cl9C480c206bOlfB62Fl243
+
+q. Approximately 17,572,068.53 aUSDC (after required fees) seized from wallets recovered from Defendants' online storage account. Those wallets were also contained on an external hard that was drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The 17,572,068.53 aUSDC is stored within the following cryptocurrency addresses:
+
+
+
+
+
+
+
+OxFl98D687695eA5576cl3B9bb63668516e2Bl62E5
+Ox663d16a3CF413Cb12165eDcOa7B755EBCBCa46b9
+Oxe554E7C73dAa8734974b67Bf4b302217d02be792
+OxBd6DaEODcAeC1a2c32F7B2e81ecc438f8e7382c5
+OxD727008alC7f6013a727CF2C56bFBf9403aA8B70
+OxB905c43B57cel5e3Fd865Cbblf3003E07EAd9bf8
+Ox301C7b38C74fc524d926FA05AA07dcF5cf67D20b
+OxE15c7056532e9dD44f1297b72567eCD147512869
+Ox53512F278tD859e2B4I801E2D55be9l4D37f7A7D
+Ox50F30f62e3b52F3c5697D67686593d213B3fF534
+Ox349785542BA933018F62f38942D346872dle88e7
+Ox73E70bl263c2996a7136BeC64c4d67c893D2a9dF
+OxAcc81C5Cdc7dBA80011F3D09BF72AD33DOBD9432
+Oxe5733F2BtD757B9aD57B494BFD2465B8a3fcBEde
+Ox24afb6813F778lce77082c779d503Fc9042d3962
+Ox3dC18294596df858b902414D651717e77359770F
+Ox9bf81CC3ldOflFA7Ade83058509a4DBl54a182a2
+Oxl8E675aaE75c37A045acObDA6adC7950307E4ef2
+OxADac233DDf57D0401l4e64e462204eeb057b808F
+GzJJYLRnMJz438k88qQRLA28jvm2YoElqcP9vCB3NkRb
+
+r. Approximately 3,542,129.56 Yearn Vault USDT (yvUSDT) (after required fees) seized from wallets recovered from Defendants' online storage account. Those wallets were also contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The 3,542,129.56 yvUSDT is stored within the following cryptocurrency address:
+
+OxOCaB63E3e978D1f66c19C480c206b01fB62F1243
+	
+s. Approximately 2,818.199 BTC (after required fees) seized from wallets recovered from Defendants' online storage account. The transfer of these assets to the U.S. Marshals Service is reflected in the following cryptocurrency transaction hashes:
+
+20b3673bfild6294c46faf88204349530b694902797ce726d800ab0f342cd88d4
+
+879a2d574abel41c4a932767ec59302520f7b7dda5c59e9230d32dd5lfcbe5ee	
+
+t. Approximately 12,267.025 BTC (after required fees) seized from wallets contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The transfer of these assets to
+
+
+
+
+
+the U.S. Marshals Service is reflected in the following cryptocurrency transaction hashes:
+
+a0d8817455fD04426e56cd502d2fc47d60ed1489363c97cd3ddlc2070fl2659c 0c425db3da697bde3277852c8cea3c9bd9adc6575e593ef349c207ee3f4ab5a2
+
+u. Approximately 1,155.901 BTC (after required fees) seized from wallets recovered from Defendants' online storage account. Those wallets were also contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The transfer of these assets to the
+U.S. Marshals Service is reflected in the following cryptocurrency transaction hashes:
+
+al062947908576e32d4bbd34e28e9bela98f9057496254dcf2f99c4cb2163eal 
+c5fc3a6a24lla398d72f4de18fe4808l0f5f9f7l8660659d8c3c03l412faaad3
+
+v. Approximately 901,014 USDC (after required fees) seized from wallets recovered from Defendants' online storage account. Those wallets were also contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The transfer of these assets to the
+
+            U.S. Marshals Service is reflected in the following cryptocurrency transaction hash:
+
+0x7593212e7dlb3a886041e8185alac2014d512b3b824d8b8e56ceb804ld7947fa	
+
+w. Approximately 290,729 USDT (after required fees) seized from wallets recovered from Defendants' online storage account. Those wallets were also contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The transfer of these assets to the
+U.S. Marshals Service is reflected in the following cryptocurrency transaction hashes:
+
+0x989359598fD29a8fe4e73le600755e917657054c4fd6d34alfd01fDcae4bc76f 0xfedcd5240a562dc05d6f2c0eb37e600c19012516a67356bfa9d9668b0f77c795
+
+x. Approximately 5,990 USDT (after required fees) seized from wallets contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The transfer of these assets to the
+U.S. Marshals Service is reflected in the following cryptocurrency transaction hash:
+
+0x7f50b68db4e36e8776fl0489446859270ee906d471ba4fe30661310ce5dd96e8
+
+y. Approximately 1000.06 in ETH (after required fees) seized from wallets recovered from Defendants' online storage account. The transfer of these assets to the U.S. Marshals Service is reflected in the following cryptocurrency transaction hash:
+
+Ox3c8d25095a6b9986cf35c22d4d3de7b875c09f68c2a314e009a0978b4f96e37b
+
+z. Approximately 7.998 BTC (after required fees) seized from wallets contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The transfer of these assets to the
+U.S. Marshals Service is reflected in the following cryptocurrency transaction hashes:
+
+196e4c6dlefD642f50f8aeeec757442b220be84c6fD6476bead5e89fD323f29e  2d39984ec84baf807259e6cc14c19549960c09757cfe88l5f299abf8a8fD4fcb
+
+aa. Approximately 1,770.049 ETH (after required fees) seized from wallets contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The transfer of these assets to the U.S. Marshals Service is reflected in the following cryptocurrency transaction hash:
+
+Ox6417b22fb8781fab467f4e5a2c30daa6aa0c16d72375545db4f692a22b3e8b1b
+
+bb. Approximately 264.863 BTC (after required fees) seized from wallets contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The transfer of these assets to the
+U.S. Marshals Service is reflected in the following cryptocurrency transaction hashes:
+
+c5fc3a6a2411a398d72f4de18fe4808 l Of5f9f718660659d8c3c031412faaad3 2le31e79897f380a989al9d9ce19ab476f97a25bed3f593cd08d64f336502a5a
+
+
+cc. Approximately 0.196 BTC (after required fees) seized from wallets contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The transfer of these assets to the
+U.S. Marshals Service is reflect_ed in the following cryptocurrency transaction hashes:
+
+83e11d4701f6a0e0b92f4efl fdab19cff9d0f2af604896fb29e68bca69dabca3 e8742c298cc8e91e088063286eb8ccf3a4392c298925ea2fDa5dbb31133d3ea7
+
+dd. Approximately 1,401.567 ETH (after required fees) seized from wallets recovered from Defendants' online storage account. The transfer of these assets to the U.S. Marshals Service is reflected in the following cryptocurrency transaction hash:
+
+Oxea69b0ad138028d0970fDObecle07afab4999adlda3cfec8091706ad3713b92e	
+
+
+
+
+
+ee. Approximately 1,767.624 ETH (after required fees) seized from wallets contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The transfer of these assets to the U.S. Marshals Service is reflected in the following cryptocurrency transaction hash:
+
+Oxela4a5cc9288051cf92328b7423a9a95d6fD05292beb5a5d4b3a7dad295162f2
+
+ff. Approximately 1,066 in Wrapped Ether (WETH) (after required fees) seized from wallets recovered from Defendants' online storage account. Those wallets were also contained in an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The transfer of these assets to the U.S. Marshals Service is reflected in the following cryptocurrency transaction hash:
+
+Oxb0225a63e85aae99eccca0d36a3b9b7la89l85960f20f057f55208ca7cfe3f36
+	
+gg. Approximately 1,091.23 ETH (after required fees) seized from wallets recovered from Defendants' online storage account. Those wallets were also contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The U.S. government's seizure of the 1,019.23 ETH is reflected in the following cryptocurrency transaction hashes:
+
+Oxc177d5d00dadl586d9de699886fc94df443c04f3ee715dcccbdc25c85be34313
+Oxla45810d725bb2a045f3eaf405e76916e65afa5eaf0774395eb9d2ccce317a59
+Oxc7e08c2c508c353fbf13a72ead2350ae174cacac039cb801c411al2d0823decb
+Ox5dd80ab5fflaf11969cl699a2led54e6ade208a8d8c733955f9e474aae23533a
+Ox9fd10a0bba9e0d7e05ble96bbe6fc586967cf12edd671aed7a258b78834a9f34
+
+hh. Approximately 3,441.092 BTC (after required feed) seized from wallets recovered from Defendant's online storage account. Those wallets were also contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The U.S. government's seizure of the 3,441.092 BTC is reflected in the following cryptocurrency transactions hashes:
+
+dlbfe94c4893243bafdeab55d72674f8da36afb6909decff0e34f3122e0ba6ec
+ab0e683b7b9ae343fa250431378dle59c9652a2666a626cl29c921860fe0e3fe
+40b3523edd73fb13f9836c2dlacda58d36e3lca6a3733dla61160fdc4dla7dbc
+5h31ae23bfc46fbc066eb2f7e4bebe218214c0703d2d6fal7eacdadf563923l2
+ea26b8dc2l9d6e22c9454c00209f8dbfe8f69abb339f769d1888d6b68dea2496
+5063fb71e5dl0dl9dc564dd0359blcba2edd52132ce413a48a45604908f2a853
+251c470876b49e0543cfla80975cadle7dcb08cacac3db5c6c38al067falO1db
+b239e2ba9f715ed6fabae9d47afc8ad38f212c47210a155c648fac52be44c699
+ebf2e0b205l5b70c13dl68ddbe77fec7d35c5497bfl8dee4fl8c2dcc224985fc
+
+
+
+
+f0cc2e7f43a47382d9014a59dba87cc72d40fc36536ba91277a0ba9664f97627
+ba80f527e648alfild814638440f4b54c5827a5lcf14c364b504blle7e782d2a2
+40d04ca5033ba6ce681aa61a879dl7773c5e24ddaa760f6493d430e547869a46
+56afc5ea66ac8f9de47a59368db91477file099d9dd018dd25a50af7f114891fd
+3ae9d68d56db74585f7496d7b848clealdlade04ac7fb5ccebafde2b0b99bbef
+9b0a91099bd339e3942c88e4f2d419b56523848e93ad58393eedf8cf5773eadf
+9ee5739526b0b3173b90fc5775c6d086456a9ecl59fil6ac0a4bll05840f9e246
+5c45ldb3ef5df87e72a725736212ld3f74269ed86d4549b981e2f999a38637b5
+334d7c7cf5d4fcfabf242599e48bdeed3d88ff7376ff822cf62b4460d5e26edd
+de8de6dc7a5d9f9d4b44b8067177ade19acb9ddede9d0clea8lced90be8ce3d4
+2511d95c9fb26b3cbf3b9a9483acf424e66dlbb9eb7337cc85dbbc43e4b089cb
+8aldf6fil520dd53a726799dlc160cbda026697dfil3e806161a90bfelae6ff20a
+507b16711260cc6509lbcf7d0156f156ab670d0fb37b4da5913e6ac5f86a84de
+d389f800al397a2879426ec160ebc03416b2d8abd62553bfil02b7c7800047fa9
+ad921e7436f2f30573ebl5d5be900a9aa2bc6bfd7c9bb25fe93f79a4dd70929f
+ff876b8c4c9cce225ae598lb8aa5789387cd7958986b3225069c9e495cf54cl5
+lcc348089e49bl4e5832e625b43adae5a46a2aflfilab9292e0edee128d50f2bb
+c8la895f4d0a85bcfb0530afa703278d77ececee19aea23a2f76cc8fl2387efb
+ccadd615642424f72bdd037437acl43bae6caf26936324a31ad17a37c5f25b3b
+95ffa24facb0a79c699aa7e92ee7a0a708337aaf978bc79519090b000361b7c2
+3file54eebc69b805ebfal05eefa4cedla5614ld9f26dfa643531d9b33a93b2bb
+65df96feecaaf158574de8ad613188e0a51elc916ce522caed5346b77b013db2
+31601ea949a83a2402849ac660b0b5fab3d23eb44a407786601e58ec4adee606
+3392ca86fil7e344ee4ea0c3c65ed8blfbd725a97ee3fced4e92e5067fe913e9b
+c04fab75db0df690c0387c1Offb8f386820d7f8e91acee955afa732ff2198b5f
+84fild8afc2d7lbc90bdf5alc605870149f9e9239692894ac231b03ebff8c0568
+791d8cd514dcf64deec4e592file9956a8a6770a53a2afild58fa470a90abb7f57
+4c0b48df536b19889c924bc003f00caffilb3fe02e38b686a86ada53645b9ce49
+6173b6591llb237f2b73463a26303df2371246e27cb48251f82fc05dc181ddc4
+14964ee20b25fl2029fedbea5d2e09bc8990l9bb0b0ec548ff691060d2bc7020
+5e84b02474079d45cdf6fl9fc2900a434e144198638a046e993cb0288f45fil8a
+82a7ca254elae98c2b538d6d5405e278a28e770deec269018fdb58790e4clbb7
+7dfl6a0a7127ceb69alee27501993cff2fecd5bc9775907933e76l43adcd94bb
+73c8c87ca4bd736fb747da2fil462153a287cd5f67eeb6a7581ee5eddle6463c3
+5876f25dc85aa7004fd55e051c933bfdc332bbld3bb7e2da037debc9bb366434
+dcea4dl2c4c5c95fb8e5bblab14f947d8f9a6aa4ce4bcl479cd4d6bd9a343f64
+c55cf70b038c035a98f7f55dd20cl9f6758312b0e767d93ac6d2a4dl8eb63d46
+966da434bdb3d5b0437laba0e3e371dd79086d0al7e8a934e3366c30369ebald
+b93e15869e32dcl8390d85cf50e93a2ce6fD39blae2a7fd7f3a368e2b59672e2
+e6ba3575a4ea632b4591f2fel4936e94d2cdfd8953a955lfle64e8aflc35cd1e
+785a5d40d9ca3def95dd0beb962734d4b485b7aael04e237a7723bafc3e3e8ed
+e7fcbddb9488270e582a73f4e2578877cce4382d3f801350f63a798f39cb8956
+832446463d160545fb90715e607547ea730593448816a4d01624e323656d2c32
+
+
+
+
+
+c2263aclb89facfe703f952f4f93e6e32lc375f46a20a20b94495055b7aa6cb2
+Of9301443899133c5cc88d2ec98c978599b9a97f7c4cf3b6ebb5185e513a2b28
+08b17bbba3239821298f5e4f039e9e2092el8d49f8d2f8c2760b287763894bb2
+3043ed00bde4c2fe49def9106feefe0ae0flldf8e8cd5d12e01935b49559e817
+04418cbdc25be7d9384ell4bbef6b87de9856e6dcb6c4b2b86600619986b2326
+dl44a404c8f0cb4332a26203e86b57blb3c7ef3d0d8e512659ea4669d3c86830
+b864c71884ea055ed234a02ad52ef2ce386b548e2df80636878elfaf6b839610
+blb640cldbd9bbe820f5e3c4d6afc28479488928c331e26c67531969491808b5	-
+4944ae6b2cl91cdb76666218e2b033b4c6158fb49cbe63b9fa0cld44631fe677
+f5842lc24dl8e8b7dfcld91841356221fa368811b7313c2e9b94bf41c796e2da
+4a4dc715421elbba033bafe33cbff21269d583274a8c5f4715ddl20da6751741
+42d54a2de6a2600ffdff16d2edd58ab05ffl31fe46ee9e3cf52bc4cf8f8187eb
+lec385f5068b06e535603327f45e689e094c83383944e96d30192193d4fa1665
+022702cle93ec20012ae882e73f59648d5805428c684747e8554c72680a52d4a
+4fdb8d8a3b25063f32ed4e2177641c2c2f880dcf627dda435743fafc39beaa00
+d02636dfdf382626f02bdb12faea7a94ac7fc19392ff637d6b25b045724fdbce
+39e9a301173d82599782d7d34b7b5fbb68e7eladb83984b7ca9e5f3ce39fOafD
+766fbf9d8cba9all65112dce6fad880649cf8c88089e01eblb5aa60295c863fd
+293d737f7dbf952d4c6cf4c35d63e7d7c7e2257bcf4f7d7cce39beb3612lf034
+8c9809dc6fc3f5436202f9acc6c04905056f91abe33eb2d285efD769c254ce8f
+b48391571ee36el5622cf20d020a5c5262fdda226c88ed065cd66021ca927f56
+c0dl21b94albb0830a6a24954f2a85099c8f9037cffde50dfb0ef30661ea2de5
+50303753bd876b0e6cead41fb9a85e34flclc4cllc5a171e8c8465a655ebe5fb
+91832fl53528833ff6019295cefa6fc370f4546126ada901112f97de7d6ea82b
+a2dae4affc9ab681ac36254e3d91651e2a974e6be6ecadec4bel54a8e8dbec34
+5db3123391717b15fb01109b7ea0f85483013c9faa0cfc2d3afcb42d3eld20d4
+Oe3824a6a73288ba65fa8587125a31c53e98fab37cb21d61404cd37eeblab68d
+6355641540ab8981163fDac4dOf08bbe9aedaed61db0357faOed8154a4dOlda6
+104df9c76f6586dfb6a88cld9412c46893c23c3c815fa2ddd32bf3ca052b3ca6
+981b378a64lab96b29528a9ed0fl7cbb15ce3a52c0c506a99174df78a566612a
+bfa696399d3345b4d3a5b5b8e3183482562d10aa3elc14eb7f9264085b0bd239
+4bc03023lb94c54705aa6786b2b4ce47acf4lbl6f953101565bb7bb314flc91e
+fDOf2684f37979e2dOe64a2b758d952124ebafe452343d93972500a9cb79987f
+f47ba0062ec3cab9f2ad4715a558a575ca9bb5b5f79la6507f5alfbeb8ec5a66
+Olce909c6a61ebb682756bfbl40690ef22b5clfc6b6827aa423bb2af443c7fd2
+73037cdc405lcad8347al977d42821b7170ce210b311786c708d82clc2dl514c
+85498282c27ffl17ed6906711167ea303c9d2a3655faf9795b919872fl7b46cd
+51a3fd6e8cbd992cl5bll97141933bb4e5bfc837c368d07edeb426eb2c6507d4
+6a0187dc7470eb63ab7bb0afcea25e48f6bae8c6734fb056251d7a36a2d88c7b
+lf1716abed9c616e538097cad579dl958a8b399aaecc686c4ab622df5f9be07c
+a4c3ea141a28ea0fldac7c6fD23304f80d6eadd4762a6eccc8bb33268029aaae
+90572eff4e00423fc85c49be940ad74614cfe41f472dl83d375d4f39622bfa81
+f92cl66d8db3318e051027clea9bc4bba672dc4eb012b9d721ca42e209eb4843
+
+
+
+
+
+23afc408a3af799b15c0cc86572163353e924163a96d21lb5692ab7bfd02f635
+7dd54a14d83 le3aa771 e9812f60a856 la3bebfa2d64f3lfl9f46c3277fed287a
+523cf07d635e4b5764639764cc69285fe106e74401376f3d2592f9a6ed5b3e28
+l 4da94ad3cb06dffc15a75 l 1c5df79e8eafeeec996fc55el5b3bf4986f675f9d
+4c8d251b05fc463a6e08dece4215e67398e52b6345b4bffe144aeb139fb5cl4a
+5684c447de8162420d7beeffc548fdbb45d950ead984afdee7fd52fad6dlbfd3
+4501eef0dabb0606228laeb5d6ddfl dde6efce3f0ab30b6fca5d4f7407415bce
+c765a4090c5757blde61798dd798a787e937dafec6be9ba2eb4a9b589aa0cbbd
+4ec5dc0986a652696ec700c94ad814a427ddc16216d8ee418351a60456d501b6
+835d21780342969210c0bffb9452f8670416d9f5ad2b3e48ele020ba4e6780d6
+fb2d89401b3ee9f663add16c27783c36b154bc3a02600ef59d415bl88b34bla4
+d289c011ba7c7de0a211e59ceeeaela914385fe0e9ecd6a3ef966421aaab7171
+00d077c214cedd26a88f38c7bl5bbl6e8d019bf70aa993152c8b7ddce8eb3944
+8954cba05d12e2fdefe9be80e3d57ee4501f62aed9d826f7ca5c5e4l5bf9505a
+4b3fa68414e7d4b094d935d94a365382a26429b6f4144d4lf4b17f38e35ad9dc
+a04a66468b78c9a05eb04lf6764c8e20ddade583f247l54acc2dflf00e6c334d
+3e59e3d79db051544facebade7875a68aaa9340IOfdl8bcae73dl7c39d65ca8d
+Ia908fedfccf83c466e66165097f7c44c4323096d723926f54a785fdcaelf3c7
+ad73d215638f0e5el2b7892d4559cab3485589dc4c80991074652db5a4e7908a
+59b55a8e5dfc8c0436a4481cffbeb96be1c6801c5b27b0fc554flcc9c962b08e
+6l230fb4cb5926edee8dclf9lb307flb878b5d5zecff8l3fe380cea6e1d65db4
+15b6e300c4a2e7ad58a826690b75f06978a4ba9b303f3743c67ff2eb50a5fe54
+
+11. Approximately 125 ETH(after required fees) seized from wallets recovered from an online storage account and an external hard drive recovered from the residence at 75 Wall Street, Apartment 33M,New York. The 125 ETH is currently frozen by the provider Switchain.
+
+Ox4e528ff82383c0d224f23379612ba776e25a034ecab36ee9ba933ef552d17244
+Ox28034afa39860a686e27740eb8921a4869d2b5b3dd0f4f08668454cedd450240
+Oxd5a558ef1131af75d3003f32b3balfce9793acf94617c9a812417b703b28cd4c
+Oxd52a43770854e40ca3db80ee74aae1ad53a06ll57fl2e32b0df7e6d6a317f2f0
+Oxc527d4aa24b763da39cd1719d04a263043804aaed09cebc20cla725da32c88bl
+Oxaa9619159bc55a54lcf4a7c27c8aal5f56ab75c78e086c1f966c5f62f7bb4056
+Oxec498184e9ee8dbc971e1862813d96ed3445327dc93215edb263d947ec43cc2b
+Oxe9e54a4f34fa47ec92f2c6c64a7b833adc38d38fc660ad31ecd2509e6ee931d4
+
+JJ. Approximately 47 ETH seized from wallets recovered from Defendants' online storage account. Those wallets'were also contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The 47 ETH was converted to USDT in the amount of approximately 169,001.494313 and is currently frozen at cryptocurrency address TSzQqhP4GwYqtA7ejTxzYT3B1A3VDicWZY.
+
+
+
+
+
+
+kk. $43,354 in U.S. currency recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005.
+
+11. Approximately 2.42401 BTC (after required fees) seized from wallets recovered from Defendants' online storage account. Those wallets were also contained on an external hard drive that was recovered from the Defendants' residence at 75 Wall Street, Apartment 33M, New York, NY 10005. The U.S. government's seizure of the 2.42401 BTC is reflected in the following cryptocurrency transaction hashes:
+
+6761268e7dca334764dec865074elfb05f5a8lf0f0ea7838fl8242b63712e29a
+6aa0a4f217fcdcf07996d00c07a7f852c287856c7288798c50c413efaf5e7bae
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
