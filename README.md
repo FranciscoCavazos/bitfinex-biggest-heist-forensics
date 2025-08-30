@@ -34,3 +34,14 @@ Leveraging **Python, Maltego, Tableau, and ChatGPT-assisted data science**, this
 ---
 
 ## 📂 Repo Structure
+
+bitfinex-biggest-heist-forensics/
+├─ data/
+│ ├─ hacked_transactions.xlsx # Excel dataset of hacked transactions
+│ └─ README.md # Data dictionary + notes
+├─ tableau/
+│ ├─ dashboards/ # .twb / .twbx dashboards
+│ └─ assets/ # Exported images for README + social
+├─ notebooks/ # Python prep + forensic clustering
+├─ social/ # LinkedIn + IG post drafts + thumbnails
+└─ README.md # This file
