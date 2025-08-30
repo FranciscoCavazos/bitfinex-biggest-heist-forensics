@@ -7,15 +7,9 @@ On **August 2, 2016**, Bitfinex suffered a hack that led to the theft of ~119,75
 This repo focuses on forensic tracing of a **subset of 14.994 BTC linked to Francisco Cavazos’ hacked account**, following its path across wallets and seizures.  
 
 ---
-
 ## ✨ Portfolio & Resume Tie-In
 - “Developed an interactive **Tableau dashboard** and supporting Python workflows tracing Bitcoin flows from the 2016 Bitfinex hack, highlighting forensic methods and data storytelling.”  
 - Skills demonstrated: **Blockchain analytics, Python data prep, Tableau visualization, forensic analysis, data storytelling**.  
-
----
-
-This repository documents the **multi-tool forensic tracing and analysis** of the 2016 Bitfinex hack — one of the largest crypto heists in history.  
-Leveraging **Python, Maltego, Tableau, and ChatGPT-assisted data science**, this project reconstructs how stolen Bitcoin flowed across the blockchain, linking hacked wallets to government seizures and forensic evidence trails.
 
 ---
 
@@ -45,3 +39,11 @@ bitfinex-biggest-heist-forensics/
 ├─ notebooks/ # Python prep + forensic clustering
 ├─ social/ # LinkedIn + IG post drafts + thumbnails
 └─ README.md # This file
+
+---
+
+## 📣 Connect
+Created by **Francisco Cavazos | Cavazos Analytics**  
+- 🌐 [Tableau Public](https://public.tableau.com/profile/yourusername)  
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)  
+- 📧 Contact: your@email.com  
